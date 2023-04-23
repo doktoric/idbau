@@ -1,3 +1,6 @@
 [submodule "themes/portio"]
 	path = themes/portio
-	url = git@github.com:doktoric/portio-hugo.git
+	url = git@github.com:StaticMania/portio-hugo.git
+[submodule "themes/hugo-scroll"]
+	path = themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git
