@@ -62,7 +62,7 @@ weight = 7
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Home4U 2020"
+copyright = "All right reserved copyright © IDBau 2020"
 footerLogo = "images/contact/widget-logo-footer.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
