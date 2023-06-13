@@ -2,7 +2,7 @@ baseURL = "https://doktoric.github.io/idbau/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "IDBau"
+title = "IDBAU"
 # Main Menu
 [[menu.main]]
 name = "Bemutatkozas"
@@ -66,7 +66,7 @@ copyright = "All right reserved copyright © IDBau 2020"
 footerLogo = "images/contact/widget-logo-footer.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/logo-inverze.png"
 
 [params.address]
 address = "Szente, Kossuth út 74 2, 2655"
