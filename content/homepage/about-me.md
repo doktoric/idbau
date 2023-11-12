@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-{{< iframe "https://drive.google.com/file/d/1oAwOHMV7BbznBAk_2NzE963xjcZsfhv2/preview" >}}
+{{< iframe https://drive.google.com/file/d/1oAwOHMV7BbznBAk_2NzE963xjcZsfhv2/preview >}}
 
 ##### IDBau Kft
 
